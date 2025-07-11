@@ -1,6 +1,6 @@
 # Employee Directory Web Application
 
-![Dashboard Screenshot](./src/screenshots/dashboard-desktop.png)
+![Dashboard Screenshot](./screenshots/dashboard-desktop.png)
 
 A responsive employee management system with data persistence using localStorage.
 
